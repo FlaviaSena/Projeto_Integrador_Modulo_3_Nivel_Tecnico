@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/src/java/br/com/adelecoiffeur/salao/view/ExcluirServicos.java</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/src/java/br/com/adelecoiffeur/salao/view/cliente/IncluirCliente.java</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/web/Buscar.jsp</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/web/incluir_cliente.jsp</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/web/exibir_servicos.jsp</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/src/java/br/com/adelecoiffeur/salao/view/ExibirServicos.java</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/web/index.html</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/src/java/br/com/adelecoiffeur/salao/view/Exibir2Servicos.java</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/src/java/br/com/adelecoiffeur/salao/entidades/Cliente.java</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/src/java/br/com/adelecoiffeur/salao/dao/Conexao.java</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/src/java/br/com/adelecoiffeur/salao/entidades/Servicos.java</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/src/java/br/com/adelecoiffeur/salao/dao/ClienteDao.java</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/web/listar_servicos.jsp</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/web/alterar_servicos.jsp</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/web/listar_cliente.jsp</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/src/java/br/com/adelecoiffeur/salao/dao/ServicosDao.java</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/src/java/br/com/adelecoiffeur/salao/view/IncluirServicos.java</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/web/incluir_servicos.jsp</file>
+            <file>file:/C:/Users/39127512021.1/Documents/NetBeansProjects/index.html/src/java/br/com/adelecoiffeur/salao/view/AlterarServicos.java</file>
+        </group>
+    </open-files>
+</project-private>
